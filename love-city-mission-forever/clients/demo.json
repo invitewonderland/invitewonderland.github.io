@@ -1,0 +1,66 @@
+{
+  "id": "love-city-demo",
+  "sample": true,
+  "brand": "Invite Wonderland",
+  "bride": "Mira",
+  "groom": "Arin",
+  "date": "2027-02-14",
+  "timeZone": "Asia/Kolkata",
+  "venue": "Palmglass Conservatory",
+  "location": "Wedding Island, Love City",
+  "message": "There is a place beside us that only you can fill. Join us as we begin our forever.",
+  "coupleImage": "art/terrace.webp",
+  "carColor": "#293d59",
+  "accent": "#ff907a",
+  "directionsUrl": null,
+  "submissionUrl": null,
+  "events": [
+    {
+      "title": "Welcome by the water",
+      "time": "16:30",
+      "detail": "Meet us on the palm terrace for welcome drinks."
+    },
+    {
+      "title": "The wedding ceremony",
+      "time": "17:30",
+      "detail": "Gather beneath the glasshouse lights for the exchange of vows."
+    },
+    {
+      "title": "Dinner under the stars",
+      "time": "19:00",
+      "detail": "An evening of dinner, music, and dancing on the island."
+    }
+  ],
+  "art": {
+    "cover": "art/boulevard.webp",
+    "groom": "art/envelope.webp",
+    "bride": "art/airfield.webp",
+    "yacht": "art/yacht.webp",
+    "venue": "art/glasshouse.webp",
+    "yachtThumb": "art/yacht-thumb.webp"
+  },
+  "story": {
+    "groomLine": "I folded the first invitation on our first date. I kept one corner blank.",
+    "brideLine": "He thinks I forgot that night. Watch the harbor when I tip the wings.",
+    "groomTrait": "Keeps every ticket stub",
+    "brideTrait": "Knows the islands by their lights",
+    "sharedMemory": "We counted harbor lights until the last ferry left without us.",
+    "yachtLine": "There were two of us counting lights that night. This time we saved one for you.",
+    "guestLine": "We left the last lantern in your hands."
+  },
+  "musicUrl": null,
+  "appearance": {
+    "bride": {
+      "outfit": "#f1e7d7"
+    },
+    "groom": {
+      "outfit": "#24242b"
+    }
+  },
+  "narration": {},
+  "decorations": {
+    "signal": "amber",
+    "flower": "Orchid",
+    "flowerColor": "#ffe4e0"
+  }
+}
