@@ -40,13 +40,13 @@
     "yachtThumb": "art/yacht-thumb.webp"
   },
   "story": {
-    "groomLine": "I folded the first invitation on our first date. I kept one corner blank.",
-    "brideLine": "He thinks I forgot that night. Watch the harbor when I tip the wings.",
-    "groomTrait": "Keeps every ticket stub",
-    "brideTrait": "Knows the islands by their lights",
+    "groomLine": "Every mile brought me closer to you. Time to deliver our special invitation.",
+    "brideLine": "Follow the glowing harbor lights. I'll meet you right by the runway.",
+    "groomTrait": "On a mission for love",
+    "brideTrait": "Guiding our flight across the islands",
     "sharedMemory": "We counted harbor lights until the last ferry left without us.",
-    "yachtLine": "There were two of us counting lights that night. This time we saved one for you.",
-    "guestLine": "We left the last lantern in your hands."
+    "yachtLine": "We journeyed across the sea together. Now, we share this sunset with you.",
+    "guestLine": "Our wedding celebration wouldn't be complete without you."
   },
   "musicUrl": null,
   "appearance": {
